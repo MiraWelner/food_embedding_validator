@@ -1,0 +1,332 @@
+whey cheese
+cheese product (processed)
+cheese (sliced, prepacked)
+cheese (scalded, caroway)
+cheese (white)
+cheese (maturing, rennet)
+cheese (muenster, for manufacturing)
+cheese (shredded)
+cheese (specialty)
+finettes cheese
+cheese (canned)
+lingot cheese
+cheese (natural)
+poil de carotte cheese
+cheese (frying, low-fat)
+cheese (whipped)
+cheese (mold-ripened, packed in hermetically sealed container)
+caprine cheese food product
+cheese food (american, grated)
+cheese (fried)
+romano cheese (enzyme-modified)
+cold-pack cheese spread
+processed cheese food product
+cheese (wax-coated)
+cheese (alcohol added)
+ovine cheese food product
+egg cheese
+lingot cheese (with herbs and garlic)
+cheese (dehydrated)
+brazilian cheese
+gudbrandsdalsost cheese
+hard cheese food product
+ilchester cheese (beer-flavored)
+bovine cheese food product
+cheese dip
+cheese powder (concentrated)
+blue cheese food product
+cold-pack cheese food product
+uncured cheese food product
+cured cheese food product
+dietetic cheese
+cheese (red marbled)
+semisoft cheese product
+cheese product (processed, flavored)
+cheese (melted)
+soft cheese food product
+halloumi cheese food product
+semihard cheese product
+meshanger cheese food product
+bitter cheese food product
+cheese solids product (enzyme-modified)
+cheese preparation (grated, unstandardized)
+cheese (unpasteurized)
+cheese filling
+manteca cheese
+cheese (soft, commercial)
+cheese (maturing)
+cheese (sliced)
+pasteurized cheese food product
+sage derby cheese
+cheese (made from buffalo milk)
+italian cheese
+cheese powder (industrial spray-dried)
+grated cheese
+goat milk cheese food product
+sheep milk cheese food product
+hard cheese
+cheese (varietal, hard)
+hard grating cheese food product
+cheese (extra hard, grating)
+hard cheese (sliced)
+cheese (hard, maturing)
+pecalloni cheese
+swiss cheese (unsalted)
+cow milk cheese
+quesa chihuahua
+añejo cheese
+cheese dip (roquefort-flavored)
+Bleu de Bresse cheese
+roquefort cheese
+gorgonzola cheese food product
+cambozola cheese
+gorgonzola cheese
+cold-pack cheese
+cold-pack cheese with added ingredients
+cold-pack cheese food with added ingredients
+cold-pack blue cheese
+cold-pack cheese food
+cold-pack cheese food with wine
+cold-pack cheese food with pistachio nuts
+cold-pack cheese (alcohol added)
+cheese unripened
+mozzarella cheese (made with whole milk, natural)
+mozzarella cheese (part-skim)
+mozzarella cheese
+mozzarella cheese low-moisture part-skim
+cheese varietal (pressed)
+cheese (rennet, hard, salted, maturing in brine)
+grated cheese (lowfat)
+provola cheese (food product)
+cheese (ripened)
+grated cheese (italian-style)
+teleme cheese
+spiced cheese
+pasta filata cheese
+spiced cheese (part-skim)
+brick cheese for manufacturing
+asadero cheese
+tilsiter cheese
+semisoft part skim cheese
+caerphilly cheese
+havarti cheese
+cheese nuworld
+mold-ripened cheese
+cheese (mexican-style soft white)
+semisoft cheese
+cheese skim milk for manufacturing
+anfrom cheese
+cheese asiago fresh
+tybo cheese
+swiss cheese from switzerland
+cheese monterey high moisture
+stilton cheese
+port salut cheese
+brick cheese
+st. paulin cheese (food product)
+longhorn cheddar cheese semisoft part-skim
+monterey cheese
+wensleydale cheese
+blue cheese (dehydrated)
+graddost cheese (semisoft, ripened)
+romadur cheese
+trappist cheese
+monterey jack cheese made from raw milk
+lactic cheese
+muenster cheese
+gammelost cheese
+gorgonzola cheese
+brie cheese
+soft-ripened cheese
+vacherin mont dor cheese food product
+bel paese cheese
+limburger cheese
+camembert cheese
+cheese soft
+cheese coulommiers
+feta cheese
+taleggio cheese
+cheese harzer
+cheese (varietal, soft)
+cheese norvegia
+cheese maribo
+esrom cheese
+cheese varietal semi-hard
+cheese maturing (semi-hard)
+semihard cheese
+cheese hushallsost
+domiati cheese
+hard grating cheese blend (grated)
+parmesan cheese (grated)
+romano cheese (grated, garlic-flavored)
+romano cheese (grated)
+goat milk cheese (marinated in olive oil)
+goat milk cheese
+goat milk cheese (unpasteurized)
+sardo cheese
+pecorino cheese
+liptauer cheese (food product)
+sheep milk cheese (unpasteurized)
+roquefort cheese
+roquefort cheese (food product)
+romano cheese (pecorino-style)
+halloumi cheese food product
+canastrato cheese
+sheep milk cheese
+manchego cheese
+parmigiano cheese (block)
+hard grating cheese blend (grated)
+grana padano
+hard grating cheese (italian-style)
+hard grating cheese (block)
+asiago cheese (old, block)
+reggiano cheese (block)
+romano cheese (grated, garlic-flavored)
+romano cheese (block)
+parmesan cheese
+romano cheese (grated)
+cheese 2% milk
+Bondon cheese food product
+cream cheese spread
+cheddar cheese food product
+Bleu de Bresse cheese
+limburger cheese food product
+swiss cheese food product
+Brie cheese food product
+cheesecake batter
+gorgonzola cheese food product
+pont ieveque cheese food product
+cotija cheese
+stracchino cheese
+oaxaca cheese
+cheese curd
+cheese fondue
+cheese made from reconstituted milk
+camembert cheese food product
+gouda cheese food product
+emmenthal cheese food product
+cow milk cured cheese food product
+cold-pack cheese food product
+queso blanco cheese
+harzer cheese food product
+semisoft cheese product
+soft cheese food product
+semihard cheese product
+uncured cow milk cheese food product
+skim milk cheese
+cream cheese spread (with added ingredients)
+unpasteurized cow milk cheese food product
+cheddar-flavored cheese
+cheese for manufacturing use
+cow milk hard cheese food product
+cheese (lowfat)
+ricotta cheese
+parmesan cheese (block)
+parmesan cheese (grated)
+parmesan cheese (uncured)
+new zealand cheddar cheese food product
+Burgundy fondue
+fondue savoyarde
+blue-veined cheese
+fynbo cheese
+montasio cheese
+cheese butterkase
+cheese amsterdam
+danbo cheese
+asiago cheese
+cheese svecia
+cheese danablu
+neufchatal cheese
+cook cheese
+ricotone cheese
+cream cheese
+farmer cheese
+mozzarella cheese (low moisture)
+petite suisse cheese
+cottage cheese
+neufchatel cheese spread
+creole cheese (creamed)
+spare cheese
+impastata cheese
+mascarpone
+baker's cheese
+samsoe cheese
+fontina cheese
+cheese asiago medium
+cheese (stirred curd)
+gouda cheese
+leyden spiced cheese
+cheese (washed curd for maufacturing)
+dagano cheese
+cheddar cheese
+lorraine cheese
+caciocavallo siciliano cheese
+spiced cheese (frisian clove)
+edam cheese
+beaufort cheese
+kuminost cheese
+derby cheese
+lancashire cheese
+colby cheese
+swiss cheese
+leicester cheese
+runesten cheese
+cheese (smoked)
+caraway cheese
+jarlsburg cheese
+gloucester cheese
+fynbo cheese (mini)
+cheese leidse
+sap sago cheese
+gruyere cheese
+longhorn cheddar cheese
+cheese herrgardsost
+cheese freise
+salame cheese
+washed curd cheese
+cheshire cheese
+cheese granular curd
+granular cheese
+cheese colby low sodium
+provolone cheese (smoked)
+provolone cheese
+asiago cheese (old, block)
+cream cheese (whipped)
+cream cheese with added ingredients
+cream cheese (processed)
+cream cheese (frozen)
+cream cheese (french-type)
+cottage cheese (lowfat)
+cottage cheese (creamed with nonfat cream dressing)
+cottage cheese (creamed)
+cottage cheese with fruit added
+cottage cheese (uncreamed)
+cottage cheese (dry)
+cottage cheese (artificially flavored)
+cottage cheese (partially creamed)
+cottage cheese (vegetable added)
+cottage cheese (pasteurized)
+cottage cheese (powdered)
+cream cheese (acid coagulated)
+cottage cheese (dry curd, creamed)
+cottage cheese with cream dressing
+samsoe cheese (baby)
+gouda cheese (baby)
+gouda cheese (smoked)
+cheddar cheese (grated)
+cheddar cheese (salt-free)
+cheddar cheese (for manufacturing)
+cheddar cheese (reduced fat)
+cheddar cheese (low sodium)
+cheddar cheese (wine-cured)
+cheddar cheese (sharp)
+cheddar cheese (for processing)
+cheddar cheese (mild)
+colby cheese (smoke-flavored)
+colby cheese (for manufacturing)
+swiss cheese (for manufacturing)
+granular cheese (for manufacturing)
+cottage cheese (creamed, fruit added)
+cottage cheese (creamed, vegetable added)
+cottage cheese (creamed, artificially flavored)
+cottage cheese (creamed, acidified)
